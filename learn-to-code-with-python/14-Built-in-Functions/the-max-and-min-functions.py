@@ -1,0 +1,5 @@
+print(max([3, 5, 7]))
+print(max("aa", "aaa"))
+print(min([3, 5, 7]))
+print(min(["a", "b", "c"]))
+print(min(["D", "z", "a"]))
